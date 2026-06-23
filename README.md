@@ -2,9 +2,11 @@
 
 
  
- 🚀 Project OverviewThe core objective of this project is to assist banks in identifying high-risk loan applicants. Using a Random Forest Classifier, the system achieves an accuracy of 93%, significantly aiding in the reduction of Non-Performing Assets (NPAs).
+ 🚀 Project Overview:
+ The core objective of this project is to assist banks in identifying high-risk loan applicants. Using a Random Forest Classifier, the system achieves an accuracy of 93%, significantly aiding in the reduction of Non-Performing Assets (NPAs).
  
- 📊 Model PerformanceThe model has been evaluated using a classification report, highlighting the following metrics:MetricScoreAccuracy93%Precision90%Recall77%
+ 📊 Model Performance:
+ The model has been evaluated using a classification report, highlighting the following metrics:MetricScoreAccuracy93%Precision90%Recall77%
  🛠 Tech StackLanguage: PythonMachine Learning: Scikit-LearnData Manipulation: Pandas, NumPyFrontend: StreamlitDeployment: Streamlit Cloud / AWS📂 Project StructurePlaintextloan-prediction/
 
  

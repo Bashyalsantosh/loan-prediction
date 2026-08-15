@@ -7,13 +7,14 @@
  
  
  📊 Model Performance:
- The model has been evaluated using a classification report, highlighting the following metrics:MetricScoreAccuracy93%Precision90%Recall77%
- 🛠 Tech StackLanguage: PythonMachine Learning: Scikit-LearnData Manipulation: Pandas, NumPyFrontend: StreamlitDeployment: Streamlit Cloud / AWS📂 Project StructurePlaintextloan-prediction/
+ The model has been evaluated using a classification report, highlighting the following metrics
+ MetricScoreAccuracy93%Precision90%Recall77%
+
+
+Tech StackLanguage: PythonMachine Learning: Scikit-LearnData Manipulation: Pandas, NumPyFrontend: StreamlitDeployment: Streamlit Cloud / AWS📂 Project StructurePlaintextloan-prediction/
 
  
 Repository Structure
-
-```text
 nrb-loan-risk-engine/
 │
 ├── app.py                      # Interactive Streamlit Executive Dashboard

@@ -15,7 +15,12 @@
 ├── requirements.txt    # Python dependencies
 └── loandata.csv        # Dataset used for training
 
-💡 Key InsightsOur feature importance analysis revealed the top three drivers of loan defaults:Previous Loan Defaults: Historical repayment behavior is the strongest indicator of future risk.Loan-to-Income Ratio: High debt burden relative to income significantly increases risk.Interest Rates: Higher interest rates often correlate with riskier borrower profiles.💻 Getting Started1. InstallationClone the repository and install the required dependencies:Bashgit clone https://github.com/your-username/loan-prediction.git
+💡 Key InsightsOur feature importance analysis revealed the top three drivers of loan defaults:
+Previous Loan Defaults: Historical repayment behavior is the strongest indicator of future risk.
+Loan-to-Income Ratio: High debt burden relative to income significantly increases risk.
+Interest Rates: Higher interest rates often correlate with riskier borrower profiles.
+💻 Getting Started1. InstallationClone the repository and install the required dependencies:
+Bashgit clone https://github.com/your-username/loan-prediction.git
 cd loan-prediction
 pip install -r requirements.txt
 2. Running the AppLaunch the interactive web interface locally:Bashstreamlit run app.py

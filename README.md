@@ -17,12 +17,12 @@ Tech StackLanguage: PythonMachine Learning: Scikit-LearnData Manipulation: Panda
 Repository Structure
 nrb-loan-risk-engine/
 │
-├── app.py                      # Interactive Streamlit Executive Dashboard
-├── medallion_pipeline.py       # End-to-End PySpark Lakehouse & ML Engine
-├── kafka_producer.py           # Real-Time Loan Application Stream Simulator
-├── requirements.txt            # Python Package Dependencies
-├── Pyspark.sql                  # Git Exclusion Rules & Checkpoint Masks
-└── README.md                   # Complete System Documentation
+├── app.py                                            # Interactive Streamlit Executive Dashboard
+├── medallion_pipeline.py                              # End-to-End PySpark Lakehouse & ML Engine
+├── kafka_producer.py                                  # Real-Time Loan Application Stream Simulator
+├── requirements.txt                                   # Python Package Dependencies
+├── Pyspark.sql                                        # Git Exclusion Rules & Checkpoint Masks
+└── README.md                                           # Complete System Documentation
 
 
 Key Features:
